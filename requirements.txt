@@ -6,4 +6,7 @@ streamlit-folium
 geopandas
 fiona
 pyproj
-requests
+stackstac
+xarray
+rasterio
+matplotlib
