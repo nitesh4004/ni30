@@ -8,3 +8,4 @@ numpy
 segmentation-models-pytorch
 scipy
 scikit-image
+gdown
